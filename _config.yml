@@ -20,14 +20,14 @@ footer-links:
   dribbble:
   email:
   facebook:
-  flickr: nsaunders
-  github: neilfws
-  instagram:
   linkedin: nfwsaunders
-  pinterest:
-  rss: feed
-  twitter: neilfws
+  github: neilfws
   stackoverflow: users/89482/neilfws
+  instagram:
+  pinterest:
+  twitter: neilfws
+  flickr: nsaunders
+  rss: feed
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 

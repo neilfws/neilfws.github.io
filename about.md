@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Welcome to my minimal presence on Github Pages.
+
+I'm a data scientist based in Sydney, Australia. Currently (2020-21) I work for the NSW Department of Education.
+
+Github is where I keep my "hobby projects", coded mostly in R. My repositories [are here](https://github.com/neilfws?tab=repositories).
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm active online, to varying degrees, at the sites indicated by the icons, below. Click them for more information.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Right now the easiest way to get my attention is @ Twitter.

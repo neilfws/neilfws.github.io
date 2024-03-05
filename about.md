@@ -6,7 +6,7 @@ permalink: /about/
 
 Welcome to my minimal presence on Github Pages.
 
-I'm a data scientist based in Sydney, Australia. Currently (2022) I work for the New South Wales Department of Education.
+I'm a data scientist based in Sydney, Australia. I've worked for several organisations, most recently the New South Wales Department of Education.
 
 Github is where I keep my "hobby projects", coded mostly in R. My repositories [are here](https://github.com/neilfws?tab=repositories){:target='_blank'}.
 
